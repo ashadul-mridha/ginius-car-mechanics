@@ -1,0 +1,26 @@
+
+
+.services-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 8px;
+    align-items: center;
+}
+
+@media only screen and  (max-width: 668px) {
+
+    .services-container{
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 13px;
+    }
+    
+}
+
+@media only screen and (min-width: 669px) and (max-width: 991px) {
+    
+    .services-container{
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px;
+    }
+    
+}

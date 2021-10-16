@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Diagnostic technicians",
+    "price": 355,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/S77cx2F/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Engine, brake experts",
+    "price": 999,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/VB6nWCK/kate-ibragimova-S5-AYGQN8-Ny8-unsplash-min.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Body repair centers",
+    "price": 500,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/P9N2GG9/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Diagnostic technicians",
+    "price": 355,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/ScVz6M1/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Auto paint experts",
+    "price": 345,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/BgNzyDK/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Autoglass repair",
+    "price": 777,
+    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It \thas roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+    "img": "https://i.ibb.co/n69VXzH/6.jpg"
+  }
+]
