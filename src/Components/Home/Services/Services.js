@@ -7,7 +7,7 @@ const Services = () => {
 
     useEffect( () => {
 
-        fetch('./services.json')
+        fetch('http://intense-mountain-60560.herokuapp.com/services')
         .then(response => response.json())
         .then(data => setServices(data))
 
@@ -17,7 +17,7 @@ const Services = () => {
             <h2 className="text-primary text-center">Our Services</h2>
             <div className="services-container">
                 {
-                    services.map(service => <Service key={service.id} service={service}></Service>)
+                    services.map(service => <Service key={service._id} service={service}></Service>)
                 }
             </div>
         </div>
